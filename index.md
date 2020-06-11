@@ -194,13 +194,13 @@ for more information.
 </ol>
 <p>
   Please also read through <em>one</em> episode of one of The Carpentries lessons below   
-  carefully, so that you can do some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode ot to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson.
+  carefully, so that you can do some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode ot to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson; each curriculum consists of multiple lessons.
 </p>
 
   <ul>
-  <li><a href="{{ site.swc_site }}/lessons">Software Carpentry Lessons</a></li>
-  <li><a href="{{ site.dc_site }}/lessons">Data Carpentry Lessons</a></li>
-  <li><a href="{{ site.lc_site }}/lessons">Library Carpentry Lessons</a></li>
+  <li><a href="{{ site.swc_site }}/lessons">Lessons from Software Carpentry Curriculum</a></li>
+  <li><a href="{{ site.dc_site }}/lessons">Lessons from Data Carpentry Curriculum</a></li>
+  <li><a href="{{ site.lc_site }}/lessons">Lessons from Library Carpentry Curriculum</a></li>
   </ul>
   
 
