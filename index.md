@@ -186,7 +186,7 @@ for more information.
 <h2 id="preparation" name="preparation">Preparation</h2>
 
 <p>
-  Please read the following before the workshop begins:
+  Please read the following before the workshop:
 </p>
 <ol>
   <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
@@ -194,8 +194,7 @@ for more information.
 </ol>
 <p>
   Please also read through <em>one</em> episode of one of The Carpentries lessons below   
-  carefully, so that you can do some exercises based on it on the
-  first day of the class.  An episode is one page of a lesson.
+  carefully, so that you can do some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode ot to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson.
 </p>
 
   <ul>
