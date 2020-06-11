@@ -194,7 +194,7 @@ for more information.
 </ol>
 <p>
   Please also read through <em>one</em> episode of one of The Carpentries lessons below   
-  carefully, so that you can do some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode ot to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson; each curriculum consists of multiple lessons. For example, you may choose ["Working with Files and Deirectories" episode](http://swcarpentry.github.io/shell-novice/03-create/index.html) of the [Shell lesson](http://swcarpentry.github.io/shell-novice/) from the [Software Carpentry curriculum](https://software-carpentry.org/lessons/).
+  carefully, so that you can do some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode ot to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson; each curriculum consists of multiple lessons. For example, you may choose <a target="_blank" href="http://swcarpentry.github.io/shell-novice/03-create/index.html">Working with Files and Directories episode</a> of the <a target="_blank" href="http://swcarpentry.github.io/shell-novice/">Shell lesson</a> from the <a target="_blank" href="https://software-carpentry.org/lessons/">Software Carpentry curriculum</a>.
 </p>
 
   <ul>
