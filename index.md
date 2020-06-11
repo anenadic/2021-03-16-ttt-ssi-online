@@ -13,7 +13,7 @@ contact: ["a.nenadic@manchester.ac.uk"]    # boxed, comma-separated list of cont
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Online via Zoom (URL will be emailed to participants)"
+  - venue: "Online via Zoom"
     address: "TBA via email to participants"
     
 ---
