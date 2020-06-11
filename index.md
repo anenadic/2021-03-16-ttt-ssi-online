@@ -107,7 +107,7 @@ locations:
 
 {% if online == "online" %}
 
-This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event will be announced in due course via email directly to participants. <!--is <{{ loc.address }}>-->.
+This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event will be announced in due course via email directly to participants. <!--is <{{ loc.address }}>-->
 
 {% else %}
 {% assign inperson = "true" %}
@@ -143,19 +143,15 @@ attempt to provide them.
 
 <h3>Requirements</h3>
 
-Participants should bring a laptop that is Internet connected and has a
-functioning browser. If you have it, a device for recording audio and video
-(mobile phones and laptops are OK) is useful as throughout the two days, we
-are going to record one another teaching in pairs or threes. It does not have
-to be high-quality, but it should be good enough that you can understand what
-someone is saying.
+Participants will need a laptop to attend the workshop (rather than a tablet) as they will be 
+asked to share their screen and do a short teaching or live coding demonstration during the workshop exercises.
 
 Please note that after this course is over, you will be asked to do
 three short follow-up exercises online in order to finish qualifying
 as an instructor: the details are available at
 <a href="{{ site.training_site }}/checkout/">{{ site.training_site }}/checkout/</a>.
 If you have any questions about the workshop, the reading material,
-or anything else, please get in touch.
+or anything else, please get in touch or ask at the workshop.
 
 
 <h3>Code of Conduct</h3>
