@@ -14,7 +14,7 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "TBA"
+    address: "TBA via email to participants"
     
 ---
 
@@ -107,7 +107,7 @@ locations:
 
 {% if online == "online" %}
 
-This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event will be announced in due course via email directly to participants. <!--is <{{ loc.address }}>-->
+This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install Zoom client</a> to connect with your instructors. The link to use for this event will be announced in due course via email directly to participants. <!--is <{{ loc.address }}>-->
 
 {% else %}
 {% assign inperson = "true" %}
@@ -194,7 +194,7 @@ for more information.
 </ol>
 <p>
   Please also read through <em>one</em> episode of one of The Carpentries lessons below   
-  carefully, so that you can do some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode ot to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson; each curriculum consists of multiple lessons. For example, you may choose <a target="_blank" href="http://swcarpentry.github.io/shell-novice/03-create/index.html">Working with Files and Directories episode</a> of the <a target="_blank" href="http://swcarpentry.github.io/shell-novice/">Shell lesson</a> from the <a target="_blank" href="https://software-carpentry.org/lessons/">Software Carpentry curriculum</a>.
+  carefully, so that you can do some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode or to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson; each curriculum consists of multiple lessons. For example, you may choose <a target="_blank" href="http://swcarpentry.github.io/shell-novice/03-create/index.html">Working with Files and Directories episode</a> of the <a target="_blank" href="http://swcarpentry.github.io/shell-novice/">Shell lesson</a> from the <a target="_blank" href="https://software-carpentry.org/lessons/">Software Carpentry curriculum</a>.
 </p>
 
   <ul>
