@@ -198,9 +198,9 @@ for more information.
 </p>
 
   <ul>
-  <li><a href="{{ site.swc_site }}/lessons">Lessons from Software Carpentry Curriculum</a></li>
-  <li><a href="{{ site.dc_site }}/lessons">Lessons from Data Carpentry Curriculum</a></li>
-  <li><a href="{{ site.lc_site }}/lessons">Lessons from Library Carpentry Curriculum</a></li>
+  <li><a href="{{ site.swc_site }}/lessons">Lessons from the Software Carpentry Curriculum</a></li>
+  <li><a href="{{ site.dc_site }}/lessons">Lessons from the Data Carpentry Curriculum</a></li>
+  <li><a href="{{ site.lc_site }}/lessons">Lessons from the Library Carpentry Curriculum</a></li>
   </ul>
   
 
