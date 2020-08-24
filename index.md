@@ -195,11 +195,11 @@ We ask participant to do some preparation ahead of the workshop.
     </p>
   </li> 
   <li>
-    <p> Prepare to teach a very short 90-second segment on the topic of your choosing (note that you will not be live coding/demonstrating in this segment). This can be a segment introducing your research or work or a topic of a lesson that your taught recently. You can use some visual aids if available, e.g. a slide (but this is not required!). 
+    <p> Prepare to teach a very short 90-second segment on the topic of your choosing (note that you will not be live coding/demonstrating in this segment). This can be a segment introducing your research or work or a topic of a lesson that your taught recently. You can use some visual aids if available, e.g. a slide (but this is not required). 
     </p>    
   </li>
   <li>
-    <p> Finally, if possible, please read the following before comming to the workshop:
+    <p> Finally, if possible, please read the following 2 short papers before coming to the workshop:
     <ol>
       <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
       <li><a href="https://carpentries.org/files/reports/TheCarpentries2019AnnualReport.pdf">The Carpentries 2019 Annual Report</a></li>
