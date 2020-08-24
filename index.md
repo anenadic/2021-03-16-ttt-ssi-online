@@ -221,15 +221,15 @@ for more information.
       <tr> <td>09:00</td> <td>Welcome</td> </tr>
       <tr> <td>09:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
       <tr> <td>10:30</td> <td>Morning Break</td> </tr>
-      <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Expertise and Instruction</a></td> </tr>
-      <tr> <td>11:40</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Memory and Cognitive Load</a></td> </tr>
-      <tr> <td>12:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Feedback</a></td> </tr>
+      <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction</a></td> </tr>
+      <tr> <td>11:40</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load</a></td> </tr>
+      <tr> <td>12:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill With Feedback</a></td> </tr>
       <tr> <td>12:30</td> <td>Lunch</td> </tr>
-      <tr> <td>13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Motivation and Demotivation</a></td> </tr>
-      <tr> <td>14:20</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Mindset</a></td> </tr>
+      <tr> <td>13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/08-motivation/index.html">Motivation and Demotivation</a></td> </tr>
+      <tr> <td>14:20</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/09-mindset/index.html">Mindset</a></td> </tr>
       <tr> <td>15:00</td> <td>Afternoon Break</td> </tr>
-      <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Teaching is a (Learned) Skill</a></td> </tr>
-      <tr> <td>16:20</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Wrap-Up and Homework for Tomorrow</a></td> </tr>
+      <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching is a (Learned) Skill</a></td> </tr>
+      <tr> <td>16:20</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/12-homework/index.html">Wrap-Up and Homework for Tomorrow</a></td> </tr>
       <tr> <td>16:30</td> <td>Finish</td> </tr>
     </table>
   </div>
