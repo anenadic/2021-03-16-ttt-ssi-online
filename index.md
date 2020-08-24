@@ -160,7 +160,6 @@ All participants are required to abide by The Carpentries <a href="{{
 site.swc_site }}/conduct/">Code of Conduct</a>.
 
 
-
 <h3 id="contact">Contact</h3>
 <p>
 Please email
@@ -212,7 +211,30 @@ for more information.
   Please see <a href="{{ site.training_site }}">this site</a> for the course material. Tentative schedule is outlined below.
 </p>
 
+<!--
+  ETHERPAD
+
+  At `_misc/etherpad.txt` you will find a template for the etherpad.
+
+  Display the Etherpad for the workshop.  You can set this up in
+  advance or on the first day; either way, make sure you push changes
+  to GitHub after you have its URL.  To create an Etherpad, go to
+
+      http://pad.software-carpentry.org/YYYY-MM-DD-site
+
+  where 'YYYY-MM-DD-site' is the identifier for your workshop,
+  e.g., '2015-06-10-esu'.
+-->
+{% if page.etherpad %}
 <hr/>
+
+<p id="etherpad">
+  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
+  <br/>
+  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
+</p>
+
+{% endif %}
 
 <div class="row">
   <div class="col-md-6">
@@ -252,37 +274,13 @@ for more information.
   </div>
 </div>
 
-<!--
-  ETHERPAD
-
-  At `_misc/etherpad.txt` you will find a template for the etherpad.
-
-  Display the Etherpad for the workshop.  You can set this up in
-  advance or on the first day; either way, make sure you push changes
-  to GitHub after you have its URL.  To create an Etherpad, go to
-
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
-
-  where 'YYYY-MM-DD-site' is the identifier for your workshop,
-  e.g., '2015-06-10-esu'.
--->
-{% if page.etherpad %}
 <hr/>
-
-<p id="etherpad">
-  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
-  <br/>
-  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
-</p>
-
-{% endif %}
 
 <h2 id="pre_workshop_survey">Surveys</h2>
 
 <p>
   Before attending the workshop, please fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a>.
 </p>
-
 
 <p>
   After the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">our post-training survey</a>.
