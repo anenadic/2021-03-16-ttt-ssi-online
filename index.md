@@ -219,17 +219,17 @@ for more information.
     <h3>Day 1</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome</td> </tr>
-      <tr> <td>09:15</td> <td>Building Skill With Practice</td> </tr>
+      <tr> <td>09:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
       <tr> <td>10:30</td> <td>Morning Break</td> </tr>
-      <tr> <td>11:00</td> <td>Expertise and Instruction</td> </tr>
-      <tr> <td>11:40</td> <td>Memory and Cognitive Load</td> </tr>
-      <tr> <td>12:15</td> <td>Building Skill With Feedback</td> </tr>
+      <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Expertise and Instruction</a></td> </tr>
+      <tr> <td>11:40</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Memory and Cognitive Load</a></td> </tr>
+      <tr> <td>12:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Feedback</a></td> </tr>
       <tr> <td>12:30</td> <td>Lunch</td> </tr>
-      <tr> <td>13:30</td> <td>Motivation and Demotivation</td> </tr>
-      <tr> <td>14:20</td> <td>Mindset</td> </tr>
+      <tr> <td>13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Motivation and Demotivation</a></td> </tr>
+      <tr> <td>14:20</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Mindset</a></td> </tr>
       <tr> <td>15:00</td> <td>Afternoon Break</td> </tr>
-      <tr> <td>15:30</td> <td>Teaching is a (Learned) Skill</td> </tr>
-      <tr> <td>16:20</td> <td>Wrap-Up and Homework for Tomorrow</td> </tr>
+      <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Teaching is a (Learned) Skill</a></td> </tr>
+      <tr> <td>16:20</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Wrap-Up and Homework for Tomorrow</a></td> </tr>
       <tr> <td>16:30</td> <td>Finish</td> </tr>
     </table>
   </div>
@@ -237,15 +237,15 @@ for more information.
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome Back</td> </tr>
-      <tr> <td>09:10</td> <td>Live Coding is a Skill</td> </tr>
+      <tr> <td>09:10</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Live Coding is a Skill</a></td> </tr>
       <tr> <td>10:30</td> <td>Morning Break</td> </tr>
-      <tr> <td>11:00</td> <td>More Practice Live Coding</td> </tr>
-      <tr> <td>11:40</td> <td>Managing a Diverse Classroom</td> </tr>
+      <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">More Practice Live Coding</a></td> </tr>
+      <tr> <td>11:40</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Managing a Diverse Classroom</a></td> </tr>
       <tr> <td>12:30</td> <td>Lunch</td> </tr>
-      <tr> <td>13:30</td> <td>Checkout Process</td> </tr>
-      <tr> <td>13:45</td> <td>The Carpentries: How We Operate and Q & A session</td> </tr>
+      <tr> <td>13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Checkout Process</a></td> </tr>
+      <tr> <td>13:45</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">The Carpentries: How We Operate and Q & A session</a></td> </tr>
       <tr> <td>15:00</td> <td>Afternoon Break</td> </tr>
-      <tr> <td>15:30</td> <td>Putting It Together</td> </tr>
+      <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Putting It Together</a></td> </tr>
       <tr> <td>16:20</td> <td>Wrap Up & Post-Training Survey</td> </tr>
       <tr> <td>16:30</td> <td>Finish</td> </tr>
     </table>
