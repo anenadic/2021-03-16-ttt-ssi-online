@@ -264,7 +264,8 @@ We ask participant to do some preparation ahead of the workshop.
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome Back</td> </tr>
-      <tr> <td>09:10</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
+      <tr> <td>09:05</td> <td>Recap and Q & A from Day 1</td> </tr>
+      <tr> <td>09:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
       <tr> <td>10:30</td> <td>Morning Break</td> </tr>
       <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
       <tr> <td>11:40</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
