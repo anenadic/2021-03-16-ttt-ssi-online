@@ -186,23 +186,25 @@ for more information.
 We ask participant to do some preparation ahead of the workshop.
 <ol>
   <li>
-    Read through <em>one</em> episode of one of The Carpentries lessons below carefully and prepare to teach a 3-minute segment from that lesson using live coding or live teaching demonstration. We may also base some exercises during the workshop on your chosen lesson (for example, we may ask you to create a multiple choice questionnaire based on it). Each Carpentry curriculum consists of multiple lessons; an episode is one page of a lesson. For example, you may choose <a target="_blank" href="http://swcarpentry.github.io/shell-novice/03-create/index.html">Working with Files and Directories episode</a> of the <a target="_blank" href="http://swcarpentry.github.io/shell-novice/">Shell lesson</a> from the <a target="_blank" href="https://software-carpentry.org/lessons/">Software Carpentry curriculum</a>.
+   <p> Read through <em>one</em> episode of one of The Carpentries lessons below carefully and prepare to teach a 3-minute segment from that lesson using live coding or live teaching demonstration. We may also base some exercises during the workshop on your chosen lesson (for example, we may ask you to create a multiple choice questionnaire based on it). Each Carpentry curriculum consists of multiple lessons; an episode is one page of a lesson. For example, you may choose <a target="_blank" href="http://swcarpentry.github.io/shell-novice/03-create/index.html">Working with Files and Directories episode</a> of the <a target="_blank" href="http://swcarpentry.github.io/shell-novice/">Shell lesson</a> from the <a target="_blank" href="https://software-carpentry.org/lessons/">Software Carpentry curriculum</a>.
       <ul>
         <li><a href="{{ site.swc_site }}/lessons">Lessons from the Software Carpentry Curriculum</a></li>
         <li><a href="{{ site.dc_site }}/lessons">Lessons from the Data Carpentry Curriculum</a></li>
         <li><a href="{{ site.lc_site }}/lessons">Lessons from the Library Carpentry Curriculum</a></li>
       </ul>
+    </p>
   </li> 
   <li>
     <p> Prepare to teach a very short 90-second segment on the topic of your choosing (note that you will not be live coding in this segment). This can be a segment introducing your research or work or a topic of a lesson that your taught recently. You can use some visual aids if available, e.g. a slide (but this is not required!). 
     </p>    
   </li>
   <li>
-    Finally, if possible, please read the following before comming to the workshop:
+    <p> Finally, if possible, please read the following before comming to the workshop:
     <ol>
       <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
       <li><a href="https://carpentries.org/files/reports/TheCarpentries2019AnnualReport.pdf">The Carpentries 2019 Annual Report</a></li>
-    </ol>  
+    </ol>
+    </p>
   </li>
 </ol>
 
