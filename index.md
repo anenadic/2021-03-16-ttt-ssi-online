@@ -237,15 +237,15 @@ for more information.
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome Back</td> </tr>
-      <tr> <td>09:10</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Live Coding is a Skill</a></td> </tr>
+      <tr> <td>09:10</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
       <tr> <td>10:30</td> <td>Morning Break</td> </tr>
-      <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">More Practice Live Coding</a></td> </tr>
-      <tr> <td>11:40</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Managing a Diverse Classroom</a></td> </tr>
+      <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
+      <tr> <td>11:40</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
       <tr> <td>12:30</td> <td>Lunch</td> </tr>
-      <tr> <td>13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Checkout Process</a></td> </tr>
-      <tr> <td>13:45</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">The Carpentries: How We Operate and Q & A session</a></td> </tr>
+      <tr> <td>13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process</a></td> </tr>
+      <tr> <td>13:45</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate and Q & A session</a></td> </tr>
       <tr> <td>15:00</td> <td>Afternoon Break</td> </tr>
-      <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Putting It Together</a></td> </tr>
+      <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a></td> </tr>
       <tr> <td>16:20</td> <td>Wrap Up & Post-Training Survey</td> </tr>
       <tr> <td>16:30</td> <td>Finish</td> </tr>
     </table>
