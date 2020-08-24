@@ -246,7 +246,7 @@ for more information.
       <tr> <td>13:45</td> <td>The Carpentries: How We Operate and Q & A session</td> </tr>
       <tr> <td>15:00</td> <td>Afternoon Break</td> </tr>
       <tr> <td>15:30</td> <td>Putting It Together</td> </tr>
-      <tr> <td>16:20</td> <td>Wrap Up & Post-Training Survey/td> </tr>
+      <tr> <td>16:20</td> <td>Wrap Up & Post-Training Survey</td> </tr>
       <tr> <td>16:30</td> <td>Finish</td> </tr>
     </table>
   </div>
