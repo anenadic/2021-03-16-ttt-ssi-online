@@ -183,17 +183,11 @@ for more information.
 <hr/>
 
 <h2 id="preparation" name="preparation">Preparation</h2>
-
+<p> Prepare to teach a very short 90-second segment on the topic of your choosing (note that you will not be live coding in this segment). This can a segment introducing your research or work or a topic of a lesson that your taught recently. You can use some visual aids if available (but this is not required!). 
+</p>  
 <p>
-  Please read the following before the workshop:
-</p>
-<ol>
-  <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
-  <li><a href="https://carpentries.org/files/reports/TheCarpentries2019AnnualReport.pdf">The Carpentries 2019 Annual Report</a></li>
-</ol>
-<p>
-  Please also read through <em>one</em> episode of one of The Carpentries lessons below   
-  carefully, so that you can do some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode or to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson; each curriculum consists of multiple lessons. For example, you may choose <a target="_blank" href="http://swcarpentry.github.io/shell-novice/03-create/index.html">Working with Files and Directories episode</a> of the <a target="_blank" href="http://swcarpentry.github.io/shell-novice/">Shell lesson</a> from the <a target="_blank" href="https://software-carpentry.org/lessons/">Software Carpentry curriculum</a>.
+  Read through <em>one</em> episode of one of The Carpentries lessons below   
+  carefully, so that you can do a 3 minute live coding/teaching demonstration based on that lesson. some exercises based on it during the workshop (for example, we may ask you to teach a few minutes from your chosen episode or to create a multiple choice questionnaire based on what the episode teaches). An episode is one page of a lesson; each curriculum consists of multiple lessons. For example, you may choose <a target="_blank" href="http://swcarpentry.github.io/shell-novice/03-create/index.html">Working with Files and Directories episode</a> of the <a target="_blank" href="http://swcarpentry.github.io/shell-novice/">Shell lesson</a> from the <a target="_blank" href="https://software-carpentry.org/lessons/">Software Carpentry curriculum</a>.
 </p>
 
   <ul>
@@ -201,7 +195,13 @@ for more information.
   <li><a href="{{ site.dc_site }}/lessons">Lessons from the Data Carpentry Curriculum</a></li>
   <li><a href="{{ site.lc_site }}/lessons">Lessons from the Library Carpentry Curriculum</a></li>
   </ul>
-  
+<p>
+  Please read the following before the workshop:
+</p>
+<ol>
+  <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">The Science of Learning</a></li>
+  <li><a href="https://carpentries.org/files/reports/TheCarpentries2019AnnualReport.pdf">The Carpentries 2019 Annual Report</a></li>
+</ol>  
 
 <hr/>
 
