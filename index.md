@@ -245,7 +245,7 @@ We ask participant to do some preparation ahead of the workshop.
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome</td> </tr>
+      <tr> <td>09:00</td> <td>Welcome and <a target="_blank" href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">Pre-Workshop Survey</a></td> </tr>
       <tr> <td>09:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
       <tr> <td>10:30</td> <td>Morning Break</td> </tr>
       <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction</a></td> </tr>
@@ -274,7 +274,7 @@ We ask participant to do some preparation ahead of the workshop.
       <tr> <td>14:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate and Q & A session</a></td> </tr>
       <tr> <td>15:00</td> <td>Afternoon Break</td> </tr>
       <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a></td> </tr>
-      <tr> <td>16:20</td> <td>Wrap Up & <a target="_blank" href="https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=2020-09-08-ttt-ssi-online">Post-Training Survey</a></td> </tr>
+      <tr> <td>16:20</td> <td>Wrap Up & <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-Workshop Survey</a></td> </tr>
       <tr> <td>16:30</td> <td>Finish</td> </tr>
     </table>
   </div>
@@ -285,9 +285,9 @@ We ask participant to do some preparation ahead of the workshop.
 <h2 id="pre_workshop_survey">Surveys</h2>
 
 <p>
-  Before attending the workshop, please fill out <a href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">our pre-training survey</a>.
+  Before attending the workshop, please fill out the <a target="_blank" href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">pre-workshop survey</a>.
 </p>
 
 <p>
-  After the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">our post-training survey</a>.
+  After the workshop, please fill out the <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">post-workshop survey</a>.
 </p>
