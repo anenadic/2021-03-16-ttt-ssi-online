@@ -12,3 +12,4 @@ It will be a blank doc and we will be pasting exercise text ourselves. People fo
 - Test Zoom with Steve: https://zoom.us/j/94200126664, the non-teaching instructor will have to be Zoom facilitator - muting people, assigning co-host provileges and managing breakout rooms, also pasting notes in the chat and Etherpad and monitor chat.
 - Aleks to compile a list of useful links
 - Aleks to create Google folder with slides
+- Pictures in Etherpad - really need them!!!
