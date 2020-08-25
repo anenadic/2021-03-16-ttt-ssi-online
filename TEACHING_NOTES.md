@@ -5,4 +5,5 @@
 - We will be using Etherpad: https://pad.carpentries.org/2020-09-08-ttt-ssi-online (just not sure about uploading pictures - people can maybe link to their Drives?) 
 It will be a blank doc and we will be pasting exercise text ourselves. People found Google doc template a bit confusing.
 - Recording teaching on Day 1? Also make sure they do not attempt live coding teaching.
+- Need a visible clock to time exercisez - there is an option for breakout rooms to have a timer
 - Test Zoom with Steve: https://zoom.us/j/94200126664, the non-teaching instructor will have to be Zoom facilitator - muting people, assigning co-host provileges and managing breakout rooms, also pasting notes in the chat and Etherpad and monitor chat.
