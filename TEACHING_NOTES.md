@@ -1,5 +1,6 @@
 
 
+- Feedback from last time Aleks taught: https://github.com/edcarp/2020-05-28-ttt-edinburgh/blob/gh-pages/FEEDBACK.md
 - Lesson split: Aleks Day 1 morning, Day 2 morning, Steve Day 1 afternoon, Day 2 afternoon, a bit less time because of the longer breaks - modify teaching accordingly
 - Suggested lessons we will skip and schedule re-jig: learner profiles and Bloom's taxonomy, and putting Q&A session together with How we operate episode; workshop introductions can be put together with Putting it all together episode
 - We will be using Etherpad: https://pad.carpentries.org/2020-09-08-ttt-ssi-online (just not sure about uploading pictures - people can maybe link to their Drives?) 
