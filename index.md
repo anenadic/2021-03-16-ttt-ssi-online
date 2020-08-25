@@ -274,7 +274,7 @@ We ask participant to do some preparation ahead of the workshop.
       <tr> <td>14:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate and Q & A session</a></td> </tr>
       <tr> <td>15:00</td> <td>Afternoon Break</td> </tr>
       <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a></td> </tr>
-      <tr> <td>16:20</td> <td>Wrap Up & Post-Training Survey</td> </tr>
+      <tr> <td>16:20</td> <td>Wrap Up & <a target="_blank" href="https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=2020-09-08-ttt-ssi-online">Post-Training Survey</a></td> </tr>
       <tr> <td>16:30</td> <td>Finish</td> </tr>
     </table>
   </div>
