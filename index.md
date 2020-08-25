@@ -270,8 +270,8 @@ We ask participant to do some preparation ahead of the workshop.
       <tr> <td>11:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
       <tr> <td>11:40</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
       <tr> <td>12:30</td> <td>Lunch</td> </tr>
-      <tr> <td>13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process</a></td> </tr>
-      <tr> <td>13:45</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate and Q & A session</a></td> </tr>
+      <tr> <td>13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process and Q & A session</a></td> </tr>
+      <tr> <td>14:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate and Q & A session</a></td> </tr>
       <tr> <td>15:00</td> <td>Afternoon Break</td> </tr>
       <tr> <td>15:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a></td> </tr>
       <tr> <td>16:20</td> <td>Wrap Up & Post-Training Survey</td> </tr>
