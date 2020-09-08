@@ -49,3 +49,16 @@ hmm... I obviously need to go and google this again :)
 - More time to discuss exercise responses, get feedback, etc.
 - Zoom clock was invisible for me, need manual reminders of time for exercises (looks like Zoom on Linux does not support this?)
 - more on me than the instructors, but I'm not creative enough to come up with MCQs on the spot
+-  Create the ethernet content in advance  -1 -1
+  - I think that might make it seem overwhelming from the outset - allowing it to grow organically through the course helps prevent that (in my experience)+1+1
+ maybe a start could be Aleks and Steve teaching us a very short lesson in 'Carpentry' way, so we know from the start what we are heading towards.+1
+- Introduce what the Carpentry is and how it is different from SSI.
+-  differentiate between Software, Data & Library carpentries at the start
+-  I would appreciate more depth on key concepts
+-  good example to go with the bad example on content/presentation style+1
+-  Zoom timer isn't visible on Linux!  Need some other way of indicating - I was always asking fellow group members+1+1
+-  The 90 second exercises could have been more useful if a little longer (3 minutes perhaps)+1+1
+-  Unsure exactly what type of feedback was useful / relevant on the 90 second presentation - I think I misread that exercise and a different lesson to the one I'd intended to! - (there's a slight mismatch between the pre-workshop instructions and the exercise instructions, I think)
+- Not enough time to reflect on the responses from the participants (e.g. MCQs).
+- i would have liked to have had an advance warning on the 90 second delivery without live coding (this was mentioned in the email) I had a prepared a 90 second talk on a - - - - research project and  3 minute live coding based on the carpentries as explained in the email both of the other people in my breakout room presented 90 seconds about their research
+- I'm still confused by concept maps / mental models.... (or should that be concept models / mental maps?) 
