@@ -22,18 +22,19 @@ hmm... I obviously need to go and google this again :)
 - Good pace
 - I liked the use of breakout rooms for exercises, easier to share ideas in a small group
 - great effort for time-keeping
-- Idea of using concept maps to collaborate on development of new material
-- Pace was good, and with interesting content. I was interesting to learn how people learn!
-- time management & focus was very good
-- positive learning environment concept interesting, pace and timing very good
-- Good pace, Really liked the focus on evidence based teaching methods
-- Good content and super friendly people. Like the breakout rooms a lot
-- Peer-to-peer feedback as a driver of improvement of teaching skills
-- Very useful to have random breakout rooms. Much easier and nicer than in live/off-line workshops (no need to move around ;-)
--Lovely atmosphere and great content. Especially learning about "cognitive load" and "Mindset" was important for me.
--Well adpated to online, and really good to use the breakout groups+1+1
--breakout rooms work well and reduce performance pressure somewhat+1+1+1
--great to have lots of interactive exercises+1+1
+-  Idea of using concept maps to collaborate on development of new material
+-  Pace was good, and with interesting content. I was interesting to learn how people learn!
+-  time management & focus was very good
+-  positive learning environment concept interesting, pace and timing very good
+-  Good pace, Really liked the focus on evidence based teaching methods
+-  Good content and super friendly people. Like the breakout rooms a lot
+-  Peer-to-peer feedback as a driver of improvement of teaching skills
+-  Very useful to have random breakout rooms. Much easier and nicer than in live/off-line workshops (no need to move around ;-)
+- Lovely atmosphere and great content. Especially learning about "cognitive load" and "Mindset" was important for me.
+- Well adpated to online, and really good to use the breakout groups+1+1+1
+- breakout rooms work well and reduce performance pressure somewhat+1+1+1+1
+- great to have lots of interactive exercises+1+1+1
+- afternoon was better because of more exercises rather than just watching slides
 
 ## What can be improved? What was confusing? Needs more explanation?
 - more clarity on what to do in break out rooms, e.g. if we have 15 minutes, is it 5 minutes to do work and 10 mins to discuss or the other way around?
