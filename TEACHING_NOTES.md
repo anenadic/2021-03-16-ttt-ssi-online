@@ -13,3 +13,11 @@ It will be a blank doc and we will be pasting exercise text ourselves - need to 
 - Aleks to compile a list of useful links
 - Aleks to create Google folder with slides
 - Pictures in Etherpad - really need them!!!
+
+
+
+
+
+Invite questions more, e.g. when summauring an episode
+Less concept maps, more faded examples
+
