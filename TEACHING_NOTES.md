@@ -17,8 +17,8 @@ It will be a blank doc and we will be pasting exercise text ourselves - need to 
 
 
 
-
+## Notes from the day
 - Invite questions more, e.g. when summauring an episode
 - Less concept maps, more faded examples
 - More feedback on exersises and work they do
-
+- This is a useful program for checking how slides/figures appear for those who are cooler vision-impaired:  https://colororacle.org/
