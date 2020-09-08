@@ -25,3 +25,4 @@ It will be a blank doc and we will be pasting exercise text ourselves - need to 
 - prepraquisite shouyld be that learners attend a Carpentry workshop as a learber/helper/instructor
 - start with a live codin session - this is where we are heading and where you will be at the end of the course
 - Make sure teaching demos instuctions match instruction in email to participants; 90 second teaching segment can be on a Caroentry lesson or any topic of their choosing (but not live coding)
+- A slide to distinguish mental models and concept maps and that we look at them from learners and instructors point of view
