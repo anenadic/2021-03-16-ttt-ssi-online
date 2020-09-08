@@ -22,3 +22,5 @@ It will be a blank doc and we will be pasting exercise text ourselves - need to 
 - Less concept maps, more faded examples
 - More feedback on exersises and work they do
 - This is a useful program for checking how slides/figures appear for those who are cooler vision-impaired:  https://colororacle.org/
+- prepraquisite shouyld be that learners attend a Carpentry workshop as a learber/helper/instructor
+- start with a live codin session - this is where we are heading and where you will be at the end of the course
