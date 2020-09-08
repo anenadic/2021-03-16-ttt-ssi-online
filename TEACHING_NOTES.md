@@ -18,6 +18,7 @@ It will be a blank doc and we will be pasting exercise text ourselves - need to 
 
 
 
-Invite questions more, e.g. when summauring an episode
-Less concept maps, more faded examples
+- Invite questions more, e.g. when summauring an episode
+- Less concept maps, more faded examples
+- More feedback on exersises and work they do
 
