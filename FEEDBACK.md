@@ -35,6 +35,7 @@ hmm... I obviously need to go and google this again :)
 - breakout rooms work well and reduce performance pressure somewhat+1+1+1+1
 - great to have lots of interactive exercises+1+1+1
 - afternoon was better because of more exercises rather than just watching slides
+- Having done some online teaching (including carpentries) during lockdown I know how draining it is, so I was impressed at how fresh you both still sounded at the end of the day!
 
 ## What can be improved? What was confusing? Needs more explanation?
 - more clarity on what to do in break out rooms, e.g. if we have 15 minutes, is it 5 minutes to do work and 10 mins to discuss or the other way around?
