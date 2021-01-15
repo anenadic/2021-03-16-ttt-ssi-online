@@ -10,7 +10,7 @@
 carpentry: "cp"
 
 # Overall title for pages.
-title: "SSI Instructor Training, 8-9 September 2020"
+title: "SSI Instructor Training, 16-19 March 2021"
 
 
 #------------------------------------------------------------
@@ -23,7 +23,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: anenadic/2020-09-08-ttt-ssi-online
+repository: anenadic/2021-03-16-ttt-ssi-online
 
 # Email address, no mailto:
 email: "a.nenadic@manchester.ac.uk"
