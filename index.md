@@ -11,7 +11,7 @@ instructor: ["Aleksandra Nenadic", "Steve Crouch"] # boxed, comma-separated list
 helper: ["None"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["a.nenadic@manchester.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad: https://pad.carpentries.org/2021-03-16-ttt-ssi-online            # optional: URL for the workshop Etherpad if there is one
-eventbrite: ""           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "136951643051"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
     address: ""
@@ -144,7 +144,11 @@ attempt to provide them.
 {% endif %}
 
 <h3>Registration</h3>
-Register online <a href="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt" target="_blank">via EventBrite</a>.
+Registration is <a href="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt" target="_blank">
+online via EventBrite</a>. You will need a special code to register - please get in touch with 
+<a href='mailto:{{contact}}'>Aleksandra Nenadic</a> to apply for the training. Priority will be given to participants 
+from institutions that __do not__ have a partnership with The Carpentries, so cannot get onto Instructor Training 
+as part of their institutional membership. 
 
 <h3>Requirements</h3>
 
