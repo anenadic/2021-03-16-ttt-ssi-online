@@ -10,7 +10,7 @@ enddate: 2021-03-19        # machine-readable end date for the workshop in YYYY-
 instructor: ["Aleksandra Nenadic", "Steve Crouch"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["None"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["a.nenadic@manchester.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad: https://pad.carpentries.org/2020-09-08-ttt-ssi-online            # optional: URL for the workshop Etherpad if there is one
+etherpad: https://pad.carpentries.org/2021-03-16-ttt-ssi-online            # optional: URL for the workshop Etherpad if there is one
 eventbrite: ""           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
@@ -208,6 +208,19 @@ We ask participant to do some preparation ahead of the workshop.
   </li>
 </ol>
 
+
+<hr/>
+
+<h2 id="pre_workshop_survey">Surveys</h2>
+
+<p>
+  Before attending the workshop, please fill out the <a target="_blank" href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">pre-workshop survey</a>.
+</p>
+
+<p>
+  After the workshop, please fill out the <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">post-workshop survey</a>.
+</p>
+
 <hr/>
 
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
@@ -279,15 +292,3 @@ We ask participant to do some preparation ahead of the workshop.
     </table>
   </div>
 </div>
-
-<hr/>
-
-<h2 id="pre_workshop_survey">Surveys</h2>
-
-<p>
-  Before attending the workshop, please fill out the <a target="_blank" href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">pre-workshop survey</a>.
-</p>
-
-<p>
-  After the workshop, please fill out the <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">post-workshop survey</a>.
-</p>
