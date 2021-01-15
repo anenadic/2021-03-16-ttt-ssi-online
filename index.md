@@ -161,7 +161,7 @@ or anything else, please get in touch or ask at the workshop.
 
 <h3>Code of Conduct</h3>
 
-All participants are required to abide by The Carpentries <a href="{{
+All participants (including instructors, helpers and observers) are required to abide by The Carpentries <a href="{{
 site.swc_site }}/conduct/">Code of Conduct</a>.
 
 
