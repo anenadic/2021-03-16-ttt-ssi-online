@@ -144,10 +144,10 @@ attempt to provide them.
 {% endif %}
 
 <h3>Registration</h3>
-Registration is <a href="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt" target="_blank">
-online via EventBrite</a>. You will need a special code to register - please get in touch with 
+Registration is free <a href="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt" target="_blank">
+via EventBrite</a>. You will need a special code to register - please get in touch with 
 <a href='mailto:{{contact}}'>Aleksandra Nenadic</a> to apply for the training. Priority will be given to participants 
-from institutions that __do not__ have a partnership with The Carpentries, so cannot get onto Instructor Training 
+from UK institutions that __do not__ have a partnership with The Carpentries, so cannot get onto Instructor Training 
 as part of their institutional membership. 
 
 <h3>Requirements</h3>
