@@ -37,6 +37,7 @@ locations:
   are not using Eventbrite, or leave it in, since it will not be
   displayed if the 'eventbrite' field in the header is not set.
 -->
+{% comment %}
 {% if page.eventbrite %}
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
@@ -46,6 +47,7 @@ locations:
   scrolling="auto">
 </iframe>
 {% endif %}
+{% endcomment %}
 
 <h2 id="general">General Information</h2>
 
@@ -105,7 +107,7 @@ locations:
 <h4>{{ loc.venue }}</h4>
 
 {% if online == "online" %}
-{% comment %}
+{% endcomment %}
 
 This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install Zoom client</a> to connect with your instructors. The link to use for this event will be announced in due course via email directly to participants. <!--is <{{ loc.address }}>-->
 
@@ -140,6 +142,9 @@ please get in touch (using contact details below) and we will
 attempt to provide them.
 
 {% endif %}
+
+<h3>Registration</h3>
+Register online <a href="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt" target="_blank">via EventBrite</a>.
 
 <h3>Requirements</h3>
 
