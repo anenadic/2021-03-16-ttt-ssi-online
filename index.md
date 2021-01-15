@@ -97,7 +97,7 @@ locations:
   address.
   -->
 <h3 id="where">Where</h3>
-
+{% comment %}
 {% assign inperson = "false" %}
 {% for loc in page.locations %}
 
@@ -106,6 +106,7 @@ locations:
 <h4>{{ loc.venue }}</h4>
 
 {% if online == "online" %}
+{% comment %}
 
 This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install Zoom client</a> to connect with your instructors. The link to use for this event will be announced in due course via email directly to participants. <!--is <{{ loc.address }}>-->
 
