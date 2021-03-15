@@ -204,7 +204,7 @@ We ask participant to do some preparation ahead of the workshop.
     </p>
   </li> 
   <li>
-    <p> Prepare to teach a very short 90-second segment on the topic of your choosing (note that you will not be live coding/demonstrating in this segment). This can be a segment introducing your research or work or a topic of a lesson that your taught recently. You can use some visual aids if available, e.g. a slide (but this is not required). 
+    <p> Prepare to teach a very short 90-second introduction to your chosen episode (no live coding). 
     </p>    
   </li>
   <li>
