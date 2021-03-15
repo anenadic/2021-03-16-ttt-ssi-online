@@ -269,7 +269,7 @@ scheduled end time.</em></p>
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>13:00-13:30</td> <td><a target="_blank" href="{{ site.instructor_pre_survey }}{{ site.github.project_title }}">Welcome and Introduction</a></td> </tr>
+      <tr> <td>13:00-13:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome and Introduction</a></td> </tr>
       <tr> <td>13:30-14:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill With Practice</a></td> </tr>
       <tr> <td>14:00-14:15</td> <td>Break</td> </tr>
       <tr> <td>14:15-15:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction</a></td> </tr>
