@@ -297,12 +297,12 @@ scheduled end time.</em></p>
     <h3>Day 3, Thursday 18 March 2021</h3>
         <table class="table table-striped">
           <tr> <td>13:00-13:15</td> <td>Recap from Day 2</td> </tr>
-          <tr> <td>13:15-14:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
-          <tr> <td>14:00-14:15</td> <td>Break</td> </tr>
-          <tr> <td>14:15-15:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach</a></td> </tr>
-          <tr> <td>15:00-15:15</td> <td>Break</td> </tr>
-          <tr> <td>14:15-15:00</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
-          <tr> <td>15:15-16:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
+          <tr> <td>13:15-14:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
+          <tr> <td>14:15-14:30</td> <td>Break</td> </tr>
+          <tr> <td>14:30-15:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach</a></td> </tr>
+          <tr> <td>15:15-15:30</td> <td>Break</td> </tr>
+          <tr> <td>15:30-16:15</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
+          <tr> <td>16:15-16:30</td> <td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
         </table>
   </div>
   <div class="col-md-6">
