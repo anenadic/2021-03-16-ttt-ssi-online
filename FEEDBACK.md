@@ -1,72 +1,3 @@
-# Day 1
-## What went well? What did you learn and you are excited to use in your next workshop?
-- enjoyed learning about concepts map, and will play with them more ***
-- Concept maps as a means to developing material *
-- excellent time-keeping, great to have a clear schedule*
-- Faded examples +1+1+1+1+1*
-- I really liked the notion of "cognitive load". I've seen this applied a lot in terms of human factors and how people work during times of crisis, but I had never considered how it could be used in education. Super interesting, thank you.+1+1
-- I like the etherpad dynamic to gather feedback, can this be used in our courses?**
-- Quite a few interesting and new (at least for me) concepts: concept maps + cognitive load + chunking, etc. *
-- I enjoyed learning about general learning mechanisms and concepts, and faded examples was a great example
-- good to get that understanding of how limited short term memory is!+1 +1 interesting exercise for it too!
-- I think eventually I'll find concept maps useful, but I need to go and think about them some more! I think I now know how carpentry participants feel! A lot of the stuff we're taught feels pretty abstract and I'm not sure when it will be useful, but I'm sure it will be eventually (the worry is, that by time I do need it, I'll have forgotten some of the important parts!)
-- mind maps/mental models - great way to understand what the learner understands
-- Good to think about targeting experience level of learners
-- I liked the part about making multiple-choice questions diagnostic, it seems much better than less-thoughtful approaches -agreed! And another +1
-- Nice to understand relation between mental models and concept maps
-(maybe I misunderstood - I didn't see what the difference between a mental model and a concept map was :/ )
-- mental model is in your mind -- concept map is a visualisation of the mental model (usually incomplete) which you can share with others or keep for yourself.
-hmm... I obviously need to go and google this again :)
-- Good to know how to use MCQ more effectively
-- Concept maps & Mental Models, understanding how people learn a topic
-- Remembering to teach the novice, not assume understanding
-- Good pace
-- I liked the use of breakout rooms for exercises, easier to share ideas in a small group
-- great effort for time-keeping
--  Idea of using concept maps to collaborate on development of new material
--  Pace was good, and with interesting content. I was interesting to learn how people learn!
--  time management & focus was very good
--  positive learning environment concept interesting, pace and timing very good
--  Good pace, Really liked the focus on evidence based teaching methods
--  Good content and super friendly people. Like the breakout rooms a lot
--  Peer-to-peer feedback as a driver of improvement of teaching skills
--  Very useful to have random breakout rooms. Much easier and nicer than in live/off-line workshops (no need to move around ;-)
-- Lovely atmosphere and great content. Especially learning about "cognitive load" and "Mindset" was important for me.
-- Well adpated to online, and really good to use the breakout groups+1+1+1
-- breakout rooms work well and reduce performance pressure somewhat+1+1+1+1
-- great to have lots of interactive exercises+1+1+1
-- afternoon was better because of more exercises rather than just watching slides
-- Having done some online teaching (including carpentries) during lockdown I know how draining it is, so I was impressed at how fresh you both still sounded at the end of the day!
-
-## What can be improved? What was confusing? Needs more explanation?
-- more clarity on what to do in break out rooms, e.g. if we have 15 minutes, is it 5 minutes to do work and 10 mins to discuss or the other way around?
-- concept map part seemed disjointed, visiting it early on then returning to it without much explaination to the difference+1+1
-- More clarity on breakout rooms, and perhaps larger rooms (only two of us in the last one).
-- I think more of a balance between concept maps and the diagnostic multiple-choice questions would be good. Right now it is heavily skewed towards concept maps. I, personally, don't find concept maps very useful because they don't fit the way I think, and would have liked more discussion around designing questions to guage understanding. I can empathise with that, I think the examples I came up on the spot were very contrived and didn't really help me practice what they're really for (that may be exacerbating the issue, but I have disliked concept maps for as long as I have known of them)
-- Take a litte more time to revisit people responses.*
-- maybe a bit more time to look at faded examples would have been nice
-- Felt quite one-way (even though we were invited to interrupt), but I think that's a facet of online teaching
-- Pre-allocate bullet points in this etherpad+1
-- Time to complete excercises could be checked with participants (no zoom clock).
-- More time to discuss exercise responses, get feedback, etc.
-- Zoom clock was invisible for me, need manual reminders of time for exercises (looks like Zoom on Linux does not support this?)
-- more on me than the instructors, but I'm not creative enough to come up with MCQs on the spot
--  Create the ethernet content in advance  -1 -1
-  - I think that might make it seem overwhelming from the outset - allowing it to grow organically through the course helps prevent that (in my experience)+1+1
- maybe a start could be Aleks and Steve teaching us a very short lesson in 'Carpentry' way, so we know from the start what we are heading towards.+1
-- Introduce what the Carpentry is and how it is different from SSI.
--  differentiate between Software, Data & Library carpentries at the start
--  I would appreciate more depth on key concepts
--  good example to go with the bad example on content/presentation style+1
--  Zoom timer isn't visible on Linux!  Need some other way of indicating - I was always asking fellow group members+1+1
--  The 90 second exercises could have been more useful if a little longer (3 minutes perhaps)+1+1
--  Unsure exactly what type of feedback was useful / relevant on the 90 second presentation - I think I misread that exercise and a different lesson to the one I'd intended to! - (there's a slight mismatch between the pre-workshop instructions and the exercise instructions, I think)
-- Not enough time to reflect on the responses from the participants (e.g. MCQs).
-- i would have liked to have had an advance warning on the 90 second delivery without live coding (this was mentioned in the email) I had a prepared a 90 second talk on a - - - - research project and  3 minute live coding based on the carpentries as explained in the email both of the other people in my breakout room presented 90 seconds about their research
-- I'm still confused by concept maps / mental models.... (or should that be concept models / mental maps?) 
-
-
-
 # Day 1 Feedback
 ## What is the most important thing you learned today. What new skill are you most excited about using?
 - concept of mental map and working memory, motivational language
@@ -127,3 +58,32 @@ hmm... I obviously need to go and google this again :)
 - I have heard in some situations the "praise/constructive criticism/praise" sandwich is more effective if you just do "praise/constructive criticism/action plan" as then the emphasis is on how to improve and not that you were without fault - would be interested to get your thoughts on this
 
 PS - I like leaving feedback like this! (I like that we have/ can give feedback about feedback)
+
+# Day 3 Feedback
+## What is the most important thing you learned today. What new skill are you most excited about using?
+- Bloom's taxonomy - I'd never think to analyse objectives this way but it makes perfect sense+1+1+1+1
+- Bloom's Taxonomy - though I can see myself sticking too it too rigorously and not allowing myself flex xD
+- Live coding examples and videos were very useful!+1+1
+- The hands on and feedback + watching/learning from others+1+1+1+100+1+1
+- Not a skill per say, but, the oportunity for practice and receiving feedback from others+1+1
+- I still have that bad habit of saying "just/well" a few times a minute and that is slightly irritating for people to hear +1 Same here! Good to watch a recording of yourself doing it (painful! - but useful)
+ 👍 <- this thumb (seriously though, practice & peer feedback!!) 👌
+- Tips e.g. avoid being disturbed, embrace mistakes +1 defintely using them as a learning opportunity,...
+- Order of: Learning objectives -> What evidence required -> Design exercises -> Design content+1
+- Watching others teach so proficiently+1+1
+- Practice and feedback opportunity+1+1
+- live coding exercise in no-pressure environment is a great way to develop
+- The feedback from the live coding exercises+1+1
+- The shared videos were a good condensation for do's and don'ts of teaching+1
+- Learner profiles seems like a good way to combat the "expert gap". Will definitely give these more thought before delivering a workshop
+  
+## Write down one thing that is confusing and you’d like clarification on. What could be improved upon in the material and delivery?
+- I would prefer to define an objective after seeing a part of an episode or the excercise rather than looking at the "perfected" carpentry objective. I think defining the objectives is the most challenging part.+1
+- The teaching practise wasn't super useful for me BUT I'd just done some live-coding training this morning and was probably wiped out
+- The 3-minute teaching didn't give a chance to hit our stride or get to any participatory elements. But I'm not sure how it could be improved - we definitely want to practise teaching within the course+1+1+1+1 (even though that's the scary bit!) The second time, we started off from where we got to the first time, and we got further into the content which seemed to work well.
+- Faded example of good objective? Going from a bad to a better one?
+- More info (brief) on the Dunning-Kruger effect+1 Yes I've generally understood it to apply to people's assessment of "their intelligence" with the assumption that people have a measurable and fixed IQ (insert long and controversial dicussion here). But here we're talking about academics who are assessing their expertise in a particular domain, and the assumption is that everyone can obtain a good level of expertise given time and effort and good teaching.
+- Writing the profiles was fun, but would like some info on how to get an understanding through the pre-workshop survey+1+1
+ would like more live coding practice - I still don't feel ready to do it for real - (you are always more prepared than you think ;)
+ - I would be nice to try and bring formative assessment or some way of getting feedback into the live coding example. This would connect the theory from the previous two days into the practice of this day. I'd also like to go through some suggested mechanisms for formative assessment in a little more detail - so I can use different variations during my courses and not all the same. And also would be good to know if there are likely to be any differences in exercises between classroom and online coding
+- Interested in how to apply carpentries methods to more specialised content
