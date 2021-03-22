@@ -1,3 +1,4 @@
+# Day 1
 ## What went well? What did you learn and you are excited to use in your next workshop?
 - enjoyed learning about concepts map, and will play with them more ***
 - Concept maps as a means to developing material *
@@ -63,3 +64,66 @@ hmm... I obviously need to go and google this again :)
 - Not enough time to reflect on the responses from the participants (e.g. MCQs).
 - i would have liked to have had an advance warning on the 90 second delivery without live coding (this was mentioned in the email) I had a prepared a 90 second talk on a - - - - research project and  3 minute live coding based on the carpentries as explained in the email both of the other people in my breakout room presented 90 seconds about their research
 - I'm still confused by concept maps / mental models.... (or should that be concept models / mental maps?) 
+
+
+
+# Day 1 Feedback
+## What is the most important thing you learned today. What new skill are you most excited about using?
+ concept of mental map and working memory, motivational language
+ language used
+ Importance of formative assessment. +1
+How pervasive Carpentries-style training is, hadn't realised how much I'd already picked up from colleagues who have already been through the course - proof that it works!
+ language (motivational/demotivational), formative assessments +1
+  motivational/demotivational language+1+1
+ the idea of trying to get into somebody's mental model
+ exploring chunking (as horrible as the word sounds)
+ Novice vs competent vs Expert concept maps
+formative assessment
+ Concept maps, can see them being useful for some thngs although given the time they take to make they are definatly not good for some things.
+Summative vs Formative assessment definitions
+some of the language terms, and asking "what questions do people have?"
+formative assessments and how to think about learners' mental models when teaching
+the importance of good "wrong" multitest answers+1
+the idea that experts have more connections in their mental map of a subject; nice way of framing it
+identifying misconception on the basis of an answered MCQ+1
+  
+## Write down one thing that is confusing and you’d like clarification on. What could be improved upon in the material and delivery?
+ Could go a bit faster +1 It was about the right pace for me though :)
+ More examples of mental models would be great, I find it an overly abstract concept
+ what's a good/bad concept map+1+1+1+1(let's make a concept map?;)
+ Everything was really clear :)
+ why so much focus on short memorry capacity when I do not want learners to remember, there is google for that  I want them to understand
+ maybe make the breakout rooms larger.
+ 1-1 breakout room is a bit small, larger group would be easier perhaps
+ Maybe 3 people in the maps sessions? (see ↓)
+ 1-to-1 maps sessions were a bit awkward, need more details
+It was difficult to quickly think of a topic for the concept map, and I got a bit anxious as time ticked by, until I thought of something+1+1
+We could spend more time reviewing the answers to the exercises+1+1
+we covered one example of formative assessment (MCQ), one of instructional planning tool (concept map) and one of guided practice (faded examples). It would be nice to know more variety of such tools to fit different teaching styles/topics.
+I agree concept map sessions could have had more people in them in instructions for what we actually needed to do could have been more clear; also, I felt a bit time pressured coming up with the multiple choice question, so would have appreciated more time on this, or there could have been a "default" question suggestion and we could come up with wrong answers with justification (this way time wouldn't be wasted coming up with the question itself)
+
+# Day 2 Feedback
+## What is the most important thing you learned today. What new skill are you most excited about using?
+ The time to master vs usefulness once mastered graph+1+1+1+1+1+1+1+1+1+1+1+1
+The Feedback Sandwich+1
+The link between motivation, mindset and encouragement +1+1+1
+ Use of breakout rooms for the short teaching/feedback sessions+1
+ The importance/ease of gathering feedback. Feedback on only 90s of teaching can be powerful+1+1+1
+ motivation techniques+1+1
+ Growth vs fixed mindset and applying that more generally to my life :)+1+1+1+100
+To always  give feedback on two dimenssions, content and presentation
+Avoiding feedback that implies intrinsic traits+1+1
+
+## Write down one thing that is confusing and you’d like clarification on. What could be improved upon in the material and delivery?
+(Change to group sizes worked well today - thanks!)
+I don't understand the emphasis on mindset. The carpentry workshops are for self-selceted group that wants to learn, so they are motivated and I don't think it matters if they believe they have talent for it or not, they all want to learn if I may, as en example I am motivated and want to learn statistics because I think that bad stats = pointless science, but I still think I'm inherently bad at maths, so I will need to overcome that perhaps if the teachers presents equations.(+1) for carpentry example: I want my research to be reproducible so I'm motivating in learning how to code / wrangle datasets but I think I'd be bad a programming complex stuff, or working from the command line. So I think the strategy to present concrete simple but very useful example at the start of the workshop can help with this 'fixed mindset'.
+ Different participants in the breakout rooms made it difficult to build rapport. (Although in contrast, I liked the fact we moved around :) +1)
+ Is there a preferred category of praise or are they all valid depending on context?
+ Not a negative per se, but it would be good to have more time to practice presenting and getting feedback, though I appreciate this is difficult to do in this online setting+1+1+1+1 especially as we were then giving feedback on each other (but not really a negative as I understand that was the point of the exercise!)
+The content was quite clear, but I had never thought about praise and mindset so much, so it will take some time to integrate it into how I present/teach. Very useful though
+ Maybe have a different Etherpad per day? Makes it simpler to find the right location (or have shortcut links/table of contents - I think there is one in settings if that helps? Thanks! Didn't know about this)+1+1+1
+ The bits on "praise" are a little abstract; however, I the surrounding conversation was excellent and instructive. I still contend that it okay to say "that is good work" to a student.
+ Certain academics/events were mentioned, e.g. Guzdial and Ericson at Georgia Tech - it would be good to have the links/references/books for these. (Maybe they are in the lesson material?)+1
+ I have heard in some situations the "praise/constructive criticism/praise" sandwich is more effective if you just do "praise/constructive criticism/action plan" as then the emphasis is on how to improve and not that you were without fault - would be interested to get your thoughts on this
+
+PS - I like leaving feedback like this! (I like that we have/ can give feedback about feedback)
