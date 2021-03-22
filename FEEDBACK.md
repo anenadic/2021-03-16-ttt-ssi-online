@@ -69,38 +69,38 @@ hmm... I obviously need to go and google this again :)
 
 # Day 1 Feedback
 ## What is the most important thing you learned today. What new skill are you most excited about using?
- concept of mental map and working memory, motivational language
- language used
- Importance of formative assessment. +1
-How pervasive Carpentries-style training is, hadn't realised how much I'd already picked up from colleagues who have already been through the course - proof that it works!
- language (motivational/demotivational), formative assessments +1
-  motivational/demotivational language+1+1
- the idea of trying to get into somebody's mental model
- exploring chunking (as horrible as the word sounds)
- Novice vs competent vs Expert concept maps
-formative assessment
- Concept maps, can see them being useful for some thngs although given the time they take to make they are definatly not good for some things.
-Summative vs Formative assessment definitions
-some of the language terms, and asking "what questions do people have?"
-formative assessments and how to think about learners' mental models when teaching
-the importance of good "wrong" multitest answers+1
-the idea that experts have more connections in their mental map of a subject; nice way of framing it
-identifying misconception on the basis of an answered MCQ+1
+- concept of mental map and working memory, motivational language
+- language used
+- Importance of formative assessment. +1
+- How pervasive Carpentries-style training is, hadn't realised how much I'd already picked up from colleagues who have already been through the course - proof that it works!
+- language (motivational/demotivational), formative assessments +1
+- motivational/demotivational language+1+1
+-  the idea of trying to get into somebody's mental model
+- exploring chunking (as horrible as the word sounds)
+- Novice vs competent vs Expert concept maps
+- formative assessment
+- Concept maps, can see them being useful for some thngs although given the time they take to make they are definatly not good for some things.
+- Summative vs Formative assessment definitions
+- some of the language terms, and asking "what questions do people have?"
+- formative assessments and how to think about learners' mental models when teaching
+- the importance of good "wrong" multitest answers+1
+- the idea that experts have more connections in their mental map of a subject; nice way of framing it
+- identifying misconception on the basis of an answered MCQ+1
   
 ## Write down one thing that is confusing and you’d like clarification on. What could be improved upon in the material and delivery?
- Could go a bit faster +1 It was about the right pace for me though :)
- More examples of mental models would be great, I find it an overly abstract concept
- what's a good/bad concept map+1+1+1+1(let's make a concept map?;)
- Everything was really clear :)
- why so much focus on short memorry capacity when I do not want learners to remember, there is google for that  I want them to understand
- maybe make the breakout rooms larger.
- 1-1 breakout room is a bit small, larger group would be easier perhaps
- Maybe 3 people in the maps sessions? (see ↓)
- 1-to-1 maps sessions were a bit awkward, need more details
-It was difficult to quickly think of a topic for the concept map, and I got a bit anxious as time ticked by, until I thought of something+1+1
-We could spend more time reviewing the answers to the exercises+1+1
-we covered one example of formative assessment (MCQ), one of instructional planning tool (concept map) and one of guided practice (faded examples). It would be nice to know more variety of such tools to fit different teaching styles/topics.
-I agree concept map sessions could have had more people in them in instructions for what we actually needed to do could have been more clear; also, I felt a bit time pressured coming up with the multiple choice question, so would have appreciated more time on this, or there could have been a "default" question suggestion and we could come up with wrong answers with justification (this way time wouldn't be wasted coming up with the question itself)
+- Could go a bit faster +1 It was about the right pace for me though :)
+- More examples of mental models would be great, I find it an overly abstract concept
+- what's a good/bad concept map+1+1+1+1(let's make a concept map?;)
+- Everything was really clear :)
+- why so much focus on short memorry capacity when I do not want learners to remember, there is google for that  I want them to understand
+- maybe make the breakout rooms larger.
+- 1-1 breakout room is a bit small, larger group would be easier perhaps
+- Maybe 3 people in the maps sessions? (see ↓)
+- 1-to-1 maps sessions were a bit awkward, need more details
+- It was difficult to quickly think of a topic for the concept map, and I got a bit anxious as time ticked by, until I thought of something+1+1
+- We could spend more time reviewing the answers to the exercises+1+1
+- we covered one example of formative assessment (MCQ), one of instructional planning tool (concept map) and one of guided practice (faded examples). It would be nice to know more variety of such tools to fit different teaching styles/topics.
+- I agree concept map sessions could have had more people in them in instructions for what we actually needed to do could have been more clear; also, I felt a bit time pressured coming up with the multiple choice question, so would have appreciated more time on this, or there could have been a "default" question suggestion and we could come up with wrong answers with justification (this way time wouldn't be wasted coming up with the question itself)
 
 # Day 2 Feedback
 ## What is the most important thing you learned today. What new skill are you most excited about using?
