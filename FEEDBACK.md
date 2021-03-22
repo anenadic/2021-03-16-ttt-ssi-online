@@ -87,3 +87,22 @@ PS - I like leaving feedback like this! (I like that we have/ can give feedback 
  would like more live coding practice - I still don't feel ready to do it for real - (you are always more prepared than you think ;)
  - I would be nice to try and bring formative assessment or some way of getting feedback into the live coding example. This would connect the theory from the previous two days into the practice of this day. I'd also like to go through some suggested mechanisms for formative assessment in a little more detail - so I can use different variations during my courses and not all the same. And also would be good to know if there are likely to be any differences in exercises between classroom and online coding
 - Interested in how to apply carpentries methods to more specialised content
+
+# Day 4 Feedback
+## What is the most important thing you learned today. What new skill are you most excited about using?
+- checkout procedure+1+1+1+1+1+1+1+1
+- modifying a carpentries template (although very superficially covered)+1+1+1+1+1+1
+- That the checkout procedure is not as intensive as I originally thought it would be+1+1+1+1+1
+- All the different ways I can connect and keep updated with the Carpentries+1
+- Useful links 
+ 
+## Write down one thing that is confusing and you’d like clarification on. What could be improved upon in the material and delivery?
+- Not sure why we read & discussed the checkout procedures. Perhaps there could be a more directed question or discussion point.+1
+- No point of dIscussion in groups the checkout procedure if the questions can only be answered by instructors - I personally found this useful to have the time to figure some of it out myself and with the group rather than just listening (possibly half listening) to the instructor and possibly miss something+1+1+1
+- I appreciate that there was loads to cover today, but i am both excited and a bit overwhelmed with all the new things i've learned today! 
+- Think the material on the checkout process and "how we operate" is great and has a lot of detail in it, however I still found it a little confusing and needed clarification from the instructors. I now understand better, but hopefully some of the feedback we gave regarding what counts as a workshop and whether we can just teach one lesson can be integrated and further improve the teaching material
+- Today felt much more disjointed than previous days, perhaps just due to the different topics. Not sure how to solve or if it's even a bad thing but I found it a little difficult to maintain focus.+1
+- Today felt a bit rushed. The lesson template could have been skipped, since it takes a while to explore all the different parts of the page. +1+1
+ instructions to modify the workshop announcement github page template are outdated, I'm grateful someone in the group was able to redirect me (e.g. to find the deployment button etc)+1
+ - We seem to have missed managing a diverse classroom?+1
+- It would be helpful if material from today can be an assigned reading to be discussed. This way we would have a reference text with all the material and time to pick it apart.
