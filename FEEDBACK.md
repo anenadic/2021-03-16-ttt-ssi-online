@@ -104,26 +104,26 @@ I agree concept map sessions could have had more people in them in instructions 
 
 # Day 2 Feedback
 ## What is the most important thing you learned today. What new skill are you most excited about using?
- The time to master vs usefulness once mastered graph+1+1+1+1+1+1+1+1+1+1+1+1
-The Feedback Sandwich+1
-The link between motivation, mindset and encouragement +1+1+1
- Use of breakout rooms for the short teaching/feedback sessions+1
- The importance/ease of gathering feedback. Feedback on only 90s of teaching can be powerful+1+1+1
- motivation techniques+1+1
- Growth vs fixed mindset and applying that more generally to my life :)+1+1+1+100
-To always  give feedback on two dimenssions, content and presentation
-Avoiding feedback that implies intrinsic traits+1+1
+- The time to master vs usefulness once mastered graph+1+1+1+1+1+1+1+1+1+1+1+1
+- The Feedback Sandwich+1
+- The link between motivation, mindset and encouragement +1+1+1
+- Use of breakout rooms for the short teaching/feedback sessions+1
+- The importance/ease of gathering feedback. Feedback on only 90s of teaching can be powerful+1+1+1
+- motivation techniques+1+1
+- Growth vs fixed mindset and applying that more generally to my life :)+1+1+1+100
+- To always  give feedback on two dimenssions, content and presentation
+- Avoiding feedback that implies intrinsic traits+1+1
 
 ## Write down one thing that is confusing and you’d like clarification on. What could be improved upon in the material and delivery?
-(Change to group sizes worked well today - thanks!)
-I don't understand the emphasis on mindset. The carpentry workshops are for self-selceted group that wants to learn, so they are motivated and I don't think it matters if they believe they have talent for it or not, they all want to learn if I may, as en example I am motivated and want to learn statistics because I think that bad stats = pointless science, but I still think I'm inherently bad at maths, so I will need to overcome that perhaps if the teachers presents equations.(+1) for carpentry example: I want my research to be reproducible so I'm motivating in learning how to code / wrangle datasets but I think I'd be bad a programming complex stuff, or working from the command line. So I think the strategy to present concrete simple but very useful example at the start of the workshop can help with this 'fixed mindset'.
- Different participants in the breakout rooms made it difficult to build rapport. (Although in contrast, I liked the fact we moved around :) +1)
- Is there a preferred category of praise or are they all valid depending on context?
- Not a negative per se, but it would be good to have more time to practice presenting and getting feedback, though I appreciate this is difficult to do in this online setting+1+1+1+1 especially as we were then giving feedback on each other (but not really a negative as I understand that was the point of the exercise!)
-The content was quite clear, but I had never thought about praise and mindset so much, so it will take some time to integrate it into how I present/teach. Very useful though
- Maybe have a different Etherpad per day? Makes it simpler to find the right location (or have shortcut links/table of contents - I think there is one in settings if that helps? Thanks! Didn't know about this)+1+1+1
- The bits on "praise" are a little abstract; however, I the surrounding conversation was excellent and instructive. I still contend that it okay to say "that is good work" to a student.
- Certain academics/events were mentioned, e.g. Guzdial and Ericson at Georgia Tech - it would be good to have the links/references/books for these. (Maybe they are in the lesson material?)+1
- I have heard in some situations the "praise/constructive criticism/praise" sandwich is more effective if you just do "praise/constructive criticism/action plan" as then the emphasis is on how to improve and not that you were without fault - would be interested to get your thoughts on this
+- (Change to group sizes worked well today - thanks!)
+- I don't understand the emphasis on mindset. The carpentry workshops are for self-selceted group that wants to learn, so they are motivated and I don't think it matters if they believe they have talent for it or not, they all want to learn if I may, as en example I am motivated and want to learn statistics because I think that bad stats = pointless science, but I still think I'm inherently bad at maths, so I will need to overcome that perhaps if the teachers presents equations.(+1) for carpentry example: I want my research to be reproducible so I'm motivating in learning how to code / wrangle datasets but I think I'd be bad a programming complex stuff, or working from the command line. So I think the strategy to present concrete simple but very useful example at the start of the workshop can help with this 'fixed mindset'.
+- Different participants in the breakout rooms made it difficult to build rapport. (Although in contrast, I liked the fact we moved around :) +1)
+- Is there a preferred category of praise or are they all valid depending on context?
+- Not a negative per se, but it would be good to have more time to practice presenting and getting feedback, though I appreciate this is difficult to do in this online setting+1+1+1+1 especially as we were then giving feedback on each other (but not really a negative as I understand that was the point of the exercise!)
+- The content was quite clear, but I had never thought about praise and mindset so much, so it will take some time to integrate it into how I present/teach. Very useful though
+- Maybe have a different Etherpad per day? Makes it simpler to find the right location (or have shortcut links/table of contents - I think there is one in settings if that helps? Thanks! Didn't know about this)+1+1+1
+- The bits on "praise" are a little abstract; however, I the surrounding conversation was excellent and instructive. I still contend that it okay to say "that is good work" to a student.
+- Certain academics/events were mentioned, e.g. Guzdial and Ericson at Georgia Tech - it would be good to have the links/references/books for these. (Maybe they are in the lesson material?)+1
+- I have heard in some situations the "praise/constructive criticism/praise" sandwich is more effective if you just do "praise/constructive criticism/action plan" as then the emphasis is on how to improve and not that you were without fault - would be interested to get your thoughts on this
 
 PS - I like leaving feedback like this! (I like that we have/ can give feedback about feedback)
