@@ -14,7 +14,8 @@ etherpad: https://pad.carpentries.org/2021-03-16-ttt-ssi-online            # opt
 eventbrite: "136951643051"           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: ""
+    address: "Software Sustainability Institute, UK"
+    latlng: "55.94563769856673,-3.1867045140559007" 
     
 ---
 
